@@ -1,0 +1,3 @@
+a = [all[1][0], all[1][1], "Bissection1", duree[i], compt_duree1[i]]
+
+print(a)
