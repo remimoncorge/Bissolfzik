@@ -23,7 +23,7 @@ import function as f
 
 # sujets = f.extract_long_court(all)
 
-path = "/Users/admin/OneDrive - Université de Bourgogne/Thèse/Musprefval 2022/Data/All data neutre/Merge neutre.txt"
+path_windows = 'C:\Users\rmoncorge\OneDrive - Université de Bourgogne\Thèse\Bissolfzique\Data brutes\Merge_all.csv'
 all = []
 
 f = open(path, "r")
